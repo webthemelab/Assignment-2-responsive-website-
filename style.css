@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.logo img{
+   width: 100%;
+     
+}
+
+.theme-menu {
+	float: right;
+}
+.new-arrivals{
+    background-color:brown ;
+    height: 400px;
+}
+
+.arrivals-section {
+	background: #f3fcff;
+	margin-top: 60px;
+	padding: 19px 0 30px;
+}
+
+.align-items-center {
+	align-items: center !important;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+
+.new {
+	margin-bottom: 17px;
+}
+
+.arrivals-section h1 {
+	margin-left: 30px;
+}
+ 
+
+input {
+	padding: 6px;
+}
+.Subscribe{
+    height: 300px;
+    background-color: #c1c7ca;
+}
